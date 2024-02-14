@@ -11,7 +11,7 @@ Alternative Namen:
 ## Wasserhund der Romagna
 ### Italienischer Trüffelhund[1]
 
-** Widerristhöhe:	
+* Widerristhöhe:	
 Hündinnen: 41–46 cm
  (ideal 43 cm)
 Rüden: 43–48 cm
