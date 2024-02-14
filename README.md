@@ -1,4 +1,4 @@
-Bearbeiten neu
+
 # Lagotto Romagnolo U
 
 
