@@ -1,7 +1,7 @@
 
 # Lagotto Romagnolo U
 
-Bilal
+Bilal 1
 
 Gruppe 8: Apportierhunde – Stöberhunde – Wasserhunde
 Sektion 3: Wasserhunde
