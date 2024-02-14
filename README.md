@@ -1,5 +1,5 @@
 
-#Lagotto Romagnolo
+# Lagotto Romagnolo
 
 Gruppe 8: Apportierhunde – Stöberhunde – Wasserhunde
 Sektion 3: Wasserhunde
@@ -8,10 +8,10 @@ Ursprung:
 Italien
 
 Alternative Namen:	
-##Wasserhund der Romagna
-###Italienischer Trüffelhund[1]
+## Wasserhund der Romagna
+### Italienischer Trüffelhund[1]
 
-**Widerristhöhe:	
+** Widerristhöhe:	
 Hündinnen: 41–46 cm
  (ideal 43 cm)
 Rüden: 43–48 cm
