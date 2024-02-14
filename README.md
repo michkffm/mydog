@@ -1,5 +1,5 @@
 
-# Lagotto Romagnolo
+# Lagotto Romagnolo U
 
 Gruppe 8: Apportierhunde – Stöberhunde – Wasserhunde
 Sektion 3: Wasserhunde
@@ -12,7 +12,7 @@ Alternative Namen:
 ### Italienischer Trüffelhund[1]
 
 * Widerristhöhe:	
-Hündinnen: 41–46 cm
+* Hündinnen: 41–46 cm
  (ideal 43 cm)
 Rüden: 43–48 cm
  (ideal 46 cm)
